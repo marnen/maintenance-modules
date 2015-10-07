@@ -8,7 +8,7 @@ This is a list of modules that are useful for maintaining or developing modules 
 
 ### [fixpack](https://github.com/henrikjoreteg/fixpack) by [henrikjoreteg](https://www.npmjs.com/~henrikjoreteg)
 
-A package.json file scrubber for the truly insane. Cleans up your package.json in a deterministic way to ensure high quality, handcrafted, artisinal JSON.
+A package.json file scrubber for the truly insane. Cleans up your package.json in a deterministic way to ensure high quality, handcrafted, artisanal JSON.
 
 ```
 npm i fixpack --save-dev
